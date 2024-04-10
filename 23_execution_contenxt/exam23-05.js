@@ -1,0 +1,1 @@
+const windowStr =window.toString();
